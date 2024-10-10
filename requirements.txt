@@ -1,2 +1,2 @@
-chess==1.11.0
+chess==1.11.1
 discord.py==2.4.0
